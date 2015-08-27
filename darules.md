@@ -16,4 +16,4 @@ Section I - Other Rules to Follow
 -----
 It may seem odd that a list document begins with the "Other" section, but stranger things have happened before. Being an officially recognized club of Hendersonville High School, we must abide by all the rules of Hendersonville High School and any bodies that govern it. The list of especially pertinent documents are as follows:
 
-- The "Commando Code of Conduct" in the [Hendersonville High School Student Handbook](https://www.google.com/search?client=safari&rls=en&q=http:%E2%80%8B/%E2%80%8B/%E2%80%8Bhhs.sumnerschools.org/%E2%80%8Bimages/%E2%80%8Bdocs/%E2%80%8B2015_hhs_handbook_v3.pdf&ie=UTF-8&oe=UTF-8)
+- The "Commando Code of Conduct" in the [Hendersonville High School Student Handbook](http://hhs.sumnerschools.org/images/docs/2015_hhs_handbook_v3.pdf)
