@@ -10,4 +10,10 @@ The Computer Science Club of Hendersonville High School is designed to have a la
 > but a society with no other scale but the legal one
 > is not quite worthy of man either.
 
-This document attempts to provide a set of statues to maintain without compromising a safe and fun atmosphere for anyone who is interested.
+This document attempts to provide a set of statues to maintain, yet without compromising, a safe and fun atmosphere for anyone who is interested.
+
+Section I - Other Rules to Follow
+-----
+It may seem odd that a list document begins with the "Other" section, but stranger things have happened before. Being an officially recognized club of Hendersonville High School, we must abide by all the rules of Hendersonville High School and any bodies that govern it. The list of especially pertinent documents are as follows:
+
+- The "Commando Code of Conduct" in the [Hendersonville High School Student Handbook](https://www.google.com/search?client=safari&rls=en&q=http:%E2%80%8B/%E2%80%8B/%E2%80%8Bhhs.sumnerschools.org/%E2%80%8Bimages/%E2%80%8Bdocs/%E2%80%8B2015_hhs_handbook_v3.pdf&ie=UTF-8&oe=UTF-8)
