@@ -13,7 +13,20 @@ The Computer Science Club of Hendersonville High School is designed to have a la
 This document attempts to provide a set of statues to maintain, yet without compromising, a safe and fun atmosphere for anyone who is interested.
 
 Section I - Other Rules to Follow
------
-It may seem odd that a list document begins with the "Other" section, but stranger things have happened before. Being an officially recognized club of Hendersonville High School, we must abide by all the rules of Hendersonville High School and any bodies that govern it. The list of especially pertinent documents are as follows:
+---------------------------------
+It may seem odd that a list document begins with the "Other" section, but stranger things have happened before.
 
-- The "Commando Code of Conduct" in the [Hendersonville High School Student Handbook](http://hhs.sumnerschools.org/images/docs/2015_hhs_handbook_v3.pdf)
+Being an officially recognized club of Hendersonville High School, we must abide by all the rules of Hendersonville High School and any bodies that govern it. The list of especially pertinent documents are as follows:
+
+- The "Commando Code of Conduct" in the [Hendersonville High School Student Handbook](http://hhs.sumnerschools.org/images/docs/2015_hhs_handbook_v3.pdf) (Pages 5 - 8)
+- All the rules enacted by the [Student Handbook issued by the Sumner County Board of Education](http://sumnerschools.org/images/admin/StudentHandbook.pdf)
+
+Section II - Membership
+-----------------------
+Later on in this document, specific privileges will be delegated to members, so it would be useful to define what it means to be a member now.
+
+##### A Member: #####
+
+- Attends at least one meeting
+- Claims to be a member
+- Has not been explicitly barred membership from the club leadership
