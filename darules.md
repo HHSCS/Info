@@ -30,3 +30,9 @@ Later on in this document, specific privileges will be delegated to members, so 
 - Attends at least one meeting
 - Claims to be a member
 - Has not been explicitly barred membership from the club leadership
+
+##### Revocation: #####
+
+As you probably guessed from the 3rd bullet point above, the leadership of the club can ban an individual or group from ever participating in the club. However, this should be considered an extremely drastic measure, used only when all other options for discipline are exhausted, and the offending individual or group continues to frequently commit a major offense against this set of by-laws. Furthermore, an individual or group may only be permanently banned from club participation by the Teacher Adviser or the President. An individual or group may be removed from any club activity by any lower club officer, but only if no higher officer is present to make that decision at the time.
+
+A membership ban can be overturned at the discretion of the President or Teacher Adviser. A ban enacted by a previous President or Teacher Adviser can be overturned by a new President or Teacher Adviser. However, if a ban is enacted by a Teacher Adviser, it cannot be overturned by any member of the club's student leadership.
