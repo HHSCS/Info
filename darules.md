@@ -1,4 +1,4 @@
-Hendersonville High School Computer Science Club By-Laws
+Hendersonville High School Computer Science Club Constitution & By-Laws
 ========
 ![Da Rules](http://s3.amazonaws.com/scschoolfiles/553/img_pd_220816_tsb79d.jpg)
 Intro
@@ -48,3 +48,9 @@ Perhaps it would be of interest to protect the posterity of this club to state n
 > mission is to inspire, foster, and spread an excitement for
 > and a deep understanding of technology to allow one to
 > better manipulate the world around them.
+
+Section IV - Officers
+---------------------
+<!--TODO: Eventually define officer roles and their duties, as well as how they are appointed-->
+
+In the initial year of this club, the club's founder, [Michael Hulet](http://github.com/raysarebest), shall act as President, making all executive decisions for the club. As the year marches on, it shall be determined what offices are strictly necessary to maintain, and members to fill those offices shall be appointed by the President, and this constitution will thereby be edited to list those positions.
