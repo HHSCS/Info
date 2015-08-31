@@ -10,7 +10,7 @@ The Computer Science Club of Hendersonville High School is designed to have a la
 > but a society with no other scale but the legal one
 > is not quite worthy of man either.
 
-This document attempts to provide a set of statues to maintain, yet without compromising, a safe and fun atmosphere for anyone who is interested.
+This document attempts to provide a set of statues to maintain, yet without compromising a safe and fun atmosphere for anyone who is interested.
 
 Section I - Other Rules to Follow
 ---------------------------------
@@ -31,8 +31,20 @@ Later on in this document, specific privileges will be delegated to members, so 
 - Claims to be a member
 - Has not been explicitly barred membership from the club leadership
 
-##### Revocation: #####
+This club is open to any individual that meets the above requirements. This club shall never discriminate on the grounds of age, gender, race, color, creed, national origin, sexual preference, financial stability, or mathematical/computational abilities, or anything, really, as long as they meet the above requirements.
+
+###### Revocation: ######
 
 As you probably guessed from the 3rd bullet point above, the leadership of the club can ban an individual or group from ever participating in the club. However, this should be considered an extremely drastic measure, used only when all other options for discipline are exhausted, and the offending individual or group continues to frequently commit a major offense against this set of by-laws. Furthermore, an individual or group may only be permanently banned from club participation by the Teacher Adviser or the President. An individual or group may be removed from any club activity by any lower club officer, but only if no higher officer is present to make that decision at the time.
 
 A membership ban can be overturned at the discretion of the President or Teacher Adviser. A ban enacted by a previous President or Teacher Adviser can be overturned by a new President or Teacher Adviser. However, if a ban is enacted by a Teacher Adviser, it cannot be overturned by any member of the club's student leadership.
+
+Section III - Purpose
+---------------------
+
+Perhaps it would be of interest to protect the posterity of this club to state now the club's original purpose. Thus, behold! Our mission statement:
+
+> Through education, entertainment, and camaraderie, our
+> mission is to inspire, foster, and spread an excitement for
+> and a deep understanding of technology to allow one to
+> better manipulate the world around them.
