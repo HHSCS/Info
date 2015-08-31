@@ -33,7 +33,7 @@ Later on in this document, specific privileges will be delegated to members, so 
 
 This club is open to any individual that meets the above requirements. This club shall never discriminate on the grounds of age, gender, race, color, creed, national origin, sexual preference, financial stability, or mathematical/computational abilities, or anything, really, as long as they meet the above requirements.
 
-###### Revocation: ######
+##### Revocation: #####
 
 As you probably guessed from the 3rd bullet point above, the leadership of the club can ban an individual or group from ever participating in the club. However, this should be considered an extremely drastic measure, used only when all other options for discipline are exhausted, and the offending individual or group continues to frequently commit a major offense against this set of by-laws. Furthermore, an individual or group may only be permanently banned from club participation by the Teacher Adviser or the President. An individual or group may be removed from any club activity by any lower club officer, but only if no higher officer is present to make that decision at the time.
 
@@ -53,7 +53,7 @@ Section IV - Officers
 ---------------------
 <!--TODO: Eventually define officer roles and their duties, as well as how they are appointed-->
 
-In the initial year of this club, the club's founder, [Michael Hulet](http://github.com/raysarebest), shall act as President, making all executive decisions for the club. As the year marches on, it shall be determined what offices are strictly necessary to maintain, and members to fill those offices shall be appointed by the President, and this constitution will thereby be edited to list those positions.
+In the initial year of this club, the club's founder, [Michael Hulet](http://github.com/raysarebest), shall act as President, making all executive decisions for the club. As the year marches on, it shall be determined what offices and committees are strictly necessary to maintain, and members to fill those offices or committees shall be appointed by the President, and this constitution will thereby be edited to list those positions.
 
 ##### Impeachment: #####
 <!--TODO: There's a >0 chance that there will be online voting for this club in the near future. This section will have to be edited-->
@@ -63,5 +63,22 @@ Should it be decided that it would be beneficial to the club, any officer of the
 Grounds for impeachment of an officer include:
 
 - Consistent failure to perform their duties as an officer
-- Lack of interest in the club, as evidenced by repeated non-attendance of club meetings and events, with no provided or a trivial explanation.
+- Lack of interest in the club, as evidenced by repeated non-attendance of club meetings and events, with no provided or a trivial explanation, without presidential permission.
 - Flagrant violation of any of the statues listed in this constitution, without penance
+
+As the 2nd bullet point of the previous list explains, officers may be impeached for frequently missing club meetings and events, with a trivial explanation provided. Therefore, examples of trivial and non-trivial excuses should be defined here, as a metric to compare an actual excuse against, to determine of which type it is.
+
+###### Non-Trivial Excuses: ######
+
+- "I was sick."
+- "I had an appointment I needed to attend."
+- "There was a significant family event that I needed to attend/take care of."
+- "Something bad would happen to me if I attend."
+- "I have no money, and this is a paid event."
+- "My mom said no."
+
+###### Trivial Excuses: ######
+
+- "I didn't really feel like attending."
+- "I was hungry, so I went to grab a bite to eat, instead."
+- "This cool new movie came out today, and I went to see it."
