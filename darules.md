@@ -58,7 +58,7 @@ In the initial year of this club, the club's founder, [Michael Hulet](http://git
 ##### Impeachment: #####
 <!--TODO: There's a >0 chance that there will be online voting for this club in the near future. This section will have to be edited-->
 
-Should it be decided that it would be beneficial to the club, any officer of the Hendersonville High School Computer Science Club may be impeached. In order to impeach an officer, a 2/3 majority vote of the club members in attendance is required.
+Should it be decided that it would be beneficial to the club, any officer of the Hendersonville High School Computer Science Club may be impeached. However, like a revocation of club membership, this should be considered an extremely drastic measure that is used only as a last resort option after warning the offending officer several (at least 5) times about their wrongdoings. In order to impeach an officer, a 2/3 majority vote of the club members in attendance is required.
 
 Grounds for impeachment of an officer include:
 
@@ -82,3 +82,11 @@ As the 2nd bullet point of the previous list explains, officers may be impeached
 - "I didn't really feel like attending."
 - "I was hungry, so I went to grab a bite to eat, instead."
 - "This cool new movie came out today, and I went to see it."
+
+Section V - Meetings
+--------------------
+What is a club that never meets? Nonexistent, that's what.
+
+The Hendersonville High School Computer Science club will meet at least once per week, barring any extraneous circumstances. Unless otherwise stated, regular meetings will occur from 3:10 PM CT to 4:30 PM CT in Mr. Caine's room (Room 224) each Wednesday while school is in session. If any additional meetings should be called, or if any different procedures to this schedule should be followed one-time, any members that are expected to attend, as well as any members that frequently attend meetings, must be notified at least 18 hours before the meeting occurs.
+
+Occasionally, the Hendersonville High School Computer Science Club will hold a meeting or attend an event that costs money to attend, such as [CodeDay Nashville](https://codeday.org/nashville). Attending such meetings is not required for any members, though they are strongly recommended. If any member needs financial help to attend such a meeting, they may request help from the club, and the club will either grant or deny it based on the money left in the budget at the time.
