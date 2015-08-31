@@ -54,3 +54,14 @@ Section IV - Officers
 <!--TODO: Eventually define officer roles and their duties, as well as how they are appointed-->
 
 In the initial year of this club, the club's founder, [Michael Hulet](http://github.com/raysarebest), shall act as President, making all executive decisions for the club. As the year marches on, it shall be determined what offices are strictly necessary to maintain, and members to fill those offices shall be appointed by the President, and this constitution will thereby be edited to list those positions.
+
+##### Impeachment: #####
+<!--TODO: There's a >0 chance that there will be online voting for this club in the near future. This section will have to be edited-->
+
+Should it be decided that it would be beneficial to the club, any officer of the Hendersonville High School Computer Science Club may be impeached. In order to impeach an officer, a 2/3 majority vote of the club members in attendance is required.
+
+Grounds for impeachment of an officer include:
+
+- Consistent failure to perform their duties as an officer
+- Lack of interest in the club, as evidenced by repeated non-attendance of club meetings and events, with no provided or a trivial explanation.
+- Flagrant violation of any of the statues listed in this constitution, without penance
