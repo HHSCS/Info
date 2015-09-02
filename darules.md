@@ -95,7 +95,7 @@ Code of Conduct
 ===============
 The Code of Conduct for this club boils down to one simple concept: "Don't Be Mean", or better yet, "Be Nice". The follow section will attempt to outline what that looks like.
 
-Be respectful of everyone around you. If you think an impressionable 7-year-old girl would feel bad if you told it to her, don't say it to anyone else. If someone says you are doing something that is unwelcome/offensive or tells you to stop, ***stop doing it immediately***, and ***under no circumstances should you ever do it again***.
+Be respectful of everyone around you. If you think an impressionable 7-year-old girl would feel bad if you told it to her, don't say it to anyone else. If someone says you are doing something that is unwelcome/offensive or tells you to stop, ***stop doing it immediately***, and ***under no circumstances should you ever do it again***, unless the offended party was simply being sarcastic about being offended, by their own admission.
 
 If you have any complaint against any member or officer of the club, let any of the club's leadership know, and it will be anonymously handled accordingly. Discipline will be handled on a case-by-case basis, and appropriate procedures will be determined by the club's leadership after hearing each side of whatever story happened.
 
