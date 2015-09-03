@@ -55,6 +55,8 @@ Section IV - Officers
 
 In the initial year of this club, the club's founder, [Michael Hulet](http://github.com/raysarebest), shall act as President, making all executive decisions for the club. As the year marches on, it shall be determined what offices and committees are strictly necessary to maintain, and members to fill those offices or committees shall be appointed by the President, and this constitution will thereby be edited to list those positions.
 
+Furthermore, [Jorgen Phillips](https://github.com/JorgenPhi) shall act as the club's Vice President. His duties will be to assist the President in anything that he needs assisting with, and to assume presidential duties in the absence of the President.
+
 ##### Impeachment: #####
 <!--TODO: There's a >0 chance that there will be online voting for this club in the near future. This section will have to be edited-->
 
