@@ -89,7 +89,7 @@ Section V - Meetings
 --------------------
 What is a club that never meets? Nonexistent, that's what.
 
-The Hendersonville High School Computer Science club will meet at least once per week, barring any extraneous circumstances. Unless otherwise stated, regular meetings will occur from 3:10 PM CT to 4:30 PM CT in Mr. Caine's room (Room 224) each Wednesday while school is in session. If any additional meetings should be called, or if any different procedures to this schedule should be followed one-time, any members that are expected to attend, as well as any members that frequently attend meetings, must be notified at least 18 hours before the meeting occurs.
+The Hendersonville High School Computer Science club will meet at least once per week, barring any extraneous circumstances. Unless otherwise stated, regular meetings will occur from 3:10 PM CT to 4:30 PM CT in Mr. Caine's room (Room 225) each Wednesday while school is in session. If any additional meetings should be called, or if any different procedures to this schedule should be followed one-time, any members that are expected to attend, as well as any members that frequently attend meetings, must be notified at least 18 hours before the meeting occurs.
 
 Occasionally, the Hendersonville High School Computer Science Club will hold a meeting or attend an event that costs money to attend, such as [CodeDay Nashville](https://codeday.org/nashville). Attending such meetings is not required for any members, though they are strongly recommended. If any member needs financial help to attend such a meeting, they may request help from the club, and the club will either grant or deny it based on the money left in the budget at the time.
 
