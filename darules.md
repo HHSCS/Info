@@ -49,49 +49,13 @@ Perhaps it would be of interest to protect the posterity of this club to state n
 > and a deep understanding of technology to allow one to
 > better manipulate the world around them.
 
-Section IV - Officers
----------------------
-<!--TODO: Eventually define officer roles and their duties, as well as how they are appointed-->
-
-In the initial year of this club, the club's founder, [Michael Hulet](http://github.com/raysarebest), shall act as President, making all executive decisions for the club. As the year marches on, it shall be determined what offices and committees are strictly necessary to maintain, and members to fill those offices or committees shall be appointed by the President, and this constitution will thereby be edited to list those positions.
-
-Furthermore, [Jorgen Phillips](https://github.com/JorgenPhi) shall act as the club's Vice President. His duties will be to assist the President in anything that he needs assisting with, and to assume presidential duties in the absence of the President.
-
-##### Impeachment: #####
-<!--TODO: There's a >0 chance that there will be online voting for this club in the near future. This section will have to be edited-->
-
-Should it be decided that it would be beneficial to the club, any officer of the Hendersonville High School Computer Science Club may be impeached. However, like a revocation of club membership, this should be considered an extremely drastic measure that is used only as a last resort option after warning the offending officer several (at least 5) times about their wrongdoings. In order to impeach an officer, a 2/3 majority vote of the club members in attendance is required.
-
-Grounds for impeachment of an officer include:
-
-- Consistent failure to perform their duties as an officer
-- Lack of interest in the club, as evidenced by repeated non-attendance of club meetings and events, with no provided or a trivial explanation, without presidential permission.
-- Flagrant violation of any of the statues listed in this constitution, without penance
-
-As the 2nd bullet point of the previous list explains, officers may be impeached for frequently missing club meetings and events, with a trivial explanation provided. Therefore, examples of trivial and non-trivial excuses should be defined here, as a metric to compare an actual excuse against, to determine of which type it is.
-
-###### Non-Trivial Excuses: ######
-
-- "I was sick."
-- "I had an appointment I needed to attend."
-- "There was a significant family event that I needed to attend/take care of."
-- "Something bad would happen to me if I attend."
-- "I have no money, and this is a paid event."
-- "My mom said no."
-
-###### Trivial Excuses: ######
-
-- "I didn't really feel like attending."
-- "I was hungry, so I went to grab a bite to eat, instead."
-- "This cool new movie came out today, and I went to see it."
-
 Section V - Meetings
 --------------------
 What is a club that never meets? Nonexistent, that's what.
 
-The Hendersonville High School Computer Science club will meet at least once per week, barring any extraneous circumstances. Unless otherwise stated, regular meetings will occur from 3:10 PM CT to 4:00 PM CT in Mr. Caine's room (Room 225) each Wednesday while school is in session. If any additional meetings should be called, or if any different procedures to this schedule should be followed one-time, any members that are expected to attend, as well as any members that frequently attend meetings, must be notified at least 18 hours before the meeting occurs.
+The Hendersonville High School Computer Science club will meet at least once per week, barring any extraneous circumstances. Unless otherwise stated, regular meetings will occur from 3:00 PM CT to 4:00 PM CT in Mr. Willyard's room (Room 226) each Wednesday while school is in session. 
 
-Occasionally, the Hendersonville High School Computer Science Club will hold a meeting or attend an event that costs money to attend, such as [CodeDay Nashville](https://codeday.org/nashville). Attending such meetings is not required for any members, though they are strongly recommended. If any member needs financial help to attend such a meeting, they may request help from the club, and the club will either grant or deny it based on the money left in the budget at the time.
+Additionally, HHSCS will also meet once every two weeks during Commando Time when students are instructed to go to a Club instead of Advisory.
 
 Code of Conduct
 ===============
@@ -103,6 +67,6 @@ If you have any complaint against any member or officer of the club, let any of 
 
 -----------------------------------------
 
-&copy; 2015 Hendersonville High School Computer Science Club. All Rights Reserved.
+&copy; 2016 Hendersonville High School Computer Science Club. All Rights Reserved.
 
 As this is a very early stage version of this document, it could change frequently and at any time, as the need arises. That being said, it is hereby adopted as the rule of order by the Hendersonville High School Computer Science Club.
