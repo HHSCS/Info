@@ -1,4 +1,4 @@
-Hendersonville High School Computer Science Club Constitution & By-Laws
+HHS Computer Science Club Constitution & By-Laws
 ========
 ![Da Rules](http://s3.amazonaws.com/scschoolfiles/553/img_pd_220816_tsb79d.jpg)
 Intro
