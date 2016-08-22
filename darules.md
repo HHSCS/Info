@@ -49,7 +49,7 @@ Perhaps it would be of interest to protect the posterity of this club to state n
 > and a deep understanding of technology to allow one to
 > better manipulate the world around them.
 
-Section V - Meetings
+Section IV - Meetings
 --------------------
 What is a club that never meets? Nonexistent, that's what.
 
